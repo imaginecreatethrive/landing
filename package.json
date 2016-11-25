@@ -1,0 +1,12 @@
+{
+  "name": "imagine-create-thrive",
+  "version": "1.0.0",
+  "description": "ImagineCreateThrive landing site.",
+  "main": "index.js",
+  "scripts": {
+    "live": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Sanford",
+  "license": "MIT"
+}
